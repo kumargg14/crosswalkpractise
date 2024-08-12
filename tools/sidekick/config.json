@@ -1,8 +1,6 @@
 {
   "plugins": [
     {
-      "id": "aemedit",
-      "title": "Edit",
       "id": "generate-variations",
       "title": "Generate Variations",
       "url": "https://experience.adobe.com/aem/generate-variations",
