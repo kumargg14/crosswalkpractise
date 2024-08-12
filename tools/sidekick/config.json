@@ -6,5 +6,13 @@
       "environments": [ "dev", "preview", "live" ],
       "event": "aemedit"
     }
+    {
+      "id": "generate-variations",
+      "title": "Generate Variations",
+      "url": "https://experience.adobe.com/aem/generate-variations",
+      "passConfig": true,
+      "environments": ["preview","live", "edit"],
+      "includePaths": ["**.docx**"]
+    }
   ]
 }
